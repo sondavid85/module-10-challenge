@@ -3,7 +3,7 @@
   ## Description
   Take user input and generate an SVG logo
   ## Deployed Application URL
-  https://sondavid85.github.io/module-10-challenge
+  n/a
   ## Video
   ![alt-text](./examples/walkthrough.gif)
   ## Table of Contents
